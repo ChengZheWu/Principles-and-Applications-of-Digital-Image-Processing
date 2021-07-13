@@ -1,1 +1,1 @@
-# image_processing
+# Principles and Applications of Digital Image Processing
