@@ -1,5 +1,5 @@
 # Homework 3
- - Spatial filter.
+ - Spatial filter with various types of masks.
  - Marr-Hildreth edge detector.
  - Order-statistic filter: (1) median filter, (2) max filter, (3) min filter.
 ## GUI
