@@ -7,5 +7,5 @@ Part1:
 ![GUIpar1](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/hw5/GUIpart1.png)  
 Part2:  
 ![GUIpar2](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/hw5/GUIpart2.png)  
-Part3:
+Part3:  
 ![GUIpar3](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/hw5/GUIpart3.png)  
