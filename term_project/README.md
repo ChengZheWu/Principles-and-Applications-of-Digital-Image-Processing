@@ -19,6 +19,7 @@ Training set : Validation set : Testing set = 8 : 1 : 1
 ## Results
 
 #### Loss with training and validation
+![YOLO Loss](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/loss.png)
 
 #### Perfromance in testing set
 Label                 | AP       
