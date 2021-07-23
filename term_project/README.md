@@ -12,7 +12,7 @@
 **Loss Function:** YOLO Loss  
 **Optimizer:** Adam  
 ### Training tricks
-Training set : Validation set = 9 : 1  
+Training set : Validation set : Testing set = 8 : 1 : 1 
 **First stage:** batch size=32 , epochs=50, initial learning rate = 1e-3, 將除了output layer以外的layers都先freeze來進行training。  
 **Second Stage:** batch size=4, epochs=50, initial learning rate = 1e-4, 接續前面的訓練結果，此時將所有的layers設定成learnable後進行訓練，訓練中會監測val loss的狀況來調整learning rate，設定為連續3 epochs都沒進步就將learning rate乘上0.1，並且使用early stopping機制，設定為連續10 epochs都沒再進步就停止訓練，最後停止在90 epochs。  
 
