@@ -29,7 +29,7 @@ without mask          |90.44
 mask weared incorrect |71.72
 **mAP**               |**77.89**
 
-#### Example of the prediction
+#### Examples of the prediction
 input                 | Prediction     
 :---------------------|:----------
 ![809](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/maksssksksss809.png)|![809p](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/809.png)
