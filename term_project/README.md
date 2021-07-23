@@ -30,6 +30,9 @@ mask weared incorrect |71.72
 **mAP**               |**77.89**
 
 #### Example of the prediction
+Label                 | Prediction     
+:---------------------|----------:
+![7809](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/maksssksksss809.png)|81.43 
 
 ## Reference
 [Face Mask Detection Dataset, online accessed Dec 30, 2020](https://www.kaggle.com/andrewmvd/face-mask-detection)  
