@@ -12,4 +12,5 @@ without mask          |90.44
 mask weared incorrect |71.72
 **mAP**               |**77.89**
 
-
+Loss Function: YOLO Loss
+![YOLO Loss](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/loss.png)
