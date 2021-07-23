@@ -32,8 +32,8 @@ mask weared incorrect |71.72
 #### Example of the prediction
 
 ## Reference
-[Face Mask Detection Dataset, online accessed Dec 30, 2020](https://www.kaggle.com/andrewmvd/face-mask-detection)
-[Face Mask Detection using Transfer Learning of InceptionV3, 2020](https://arxiv.org/abs/2009.08369)
-[YOLOv3: An Incremental Improvement, 2018](https://arxiv.org/abs/1804.02767)
-[keras-yolo3](https://github.com/qqwweee/keras-yolo3)
-[YOLO3 (Detection, Training, and Evaluation)](https://github.com/experiencor/keras-yolo3)
+[Face Mask Detection Dataset, online accessed Dec 30, 2020](https://www.kaggle.com/andrewmvd/face-mask-detection)  
+[Face Mask Detection using Transfer Learning of InceptionV3, 2020](https://arxiv.org/abs/2009.08369)  
+[YOLOv3: An Incremental Improvement, 2018](https://arxiv.org/abs/1804.02767)  
+[keras-yolo3](https://github.com/qqwweee/keras-yolo3)  
+[YOLO3 (Detection, Training, and Evaluation)](https://github.com/experiencor/keras-yolo3)  
