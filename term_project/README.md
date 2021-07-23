@@ -8,4 +8,4 @@ Label                 | AP
 with mask             |81.43     
 without mask          |90.44  
 mask weared incorrect |71.72
-***mAP***             |***77.89***   
+**mAP**               |**77.89**
