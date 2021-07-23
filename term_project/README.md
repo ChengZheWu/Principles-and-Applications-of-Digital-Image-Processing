@@ -31,7 +31,7 @@ mask weared incorrect |71.72
 
 #### Example of the prediction
 input                 | Prediction     
-:---------------------|----------:
+:---------------------|:----------
 ![809](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/maksssksksss809.png)|![809p](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/809.png)
 ![832](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/maksssksksss832.png)|![832p](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/832.png)
 ![807](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/maksssksksss807.png)|![807p](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/807.png)
