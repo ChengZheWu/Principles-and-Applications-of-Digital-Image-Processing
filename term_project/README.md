@@ -6,7 +6,7 @@
 
 ## Method
 使用Transfer Learning方法進行訓練  
-**Model:** YOLOv3 (Darknet 53)
+**Model:** YOLOv3 (Darknet 53)  
 **Loss Function:** YOLO Loss  
 **Optimizer:** Adam  
 #### Training tricks
