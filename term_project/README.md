@@ -30,9 +30,12 @@ mask weared incorrect |71.72
 **mAP**               |**77.89**
 
 #### Example of the prediction
-Label                 | Prediction     
+input                 | Prediction     
 :---------------------|----------:
-![7809](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/maksssksksss809.png)|81.43 
+![809](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/maksssksksss809.png)|![809p](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/809.png)
+![832](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/maksssksksss832.png)|![832p](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/832.png)
+![807](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/maksssksksss807.png)|![807p](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/807.png)
+![795](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/maksssksksss795.png)|![795p](https://github.com/ChengZheWu/Principles-and-Applications-of-Digital-Image-Processing/blob/main/term_project/data/795.png)
 
 ## Reference
 [Face Mask Detection Dataset, online accessed Dec 30, 2020](https://www.kaggle.com/andrewmvd/face-mask-detection)  
