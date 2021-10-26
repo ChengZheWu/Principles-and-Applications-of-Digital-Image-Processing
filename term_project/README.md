@@ -25,7 +25,7 @@ Training set : Validation set : Testing set = 8 : 1 : 1
 Label                 | AP       
 :---------------------|----------:
 with mask             |81.43     
-without mask          |90.44  
+without mask          |80.44  
 mask weared incorrect |71.72
 **mAP**               |**77.89**
 
